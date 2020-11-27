@@ -30,5 +30,7 @@ The potentiometer reading is read using analogread and divided by 4 before writi
 An NPN transistor is used to amplify voltage so it can be scaled for the motor from 5V to 9V.
 
 Ouput PWM signal is given to the base of the transistor and the new output comes from the emitter, which is connected to the terminal of the motor. 
+![Circuit Diagram Part a](https://github.com/arushi-mittal/iot-lab/blob/main/exp_2a.png?raw=true)
+![Circuit Diagram Part b](https://github.com/arushi-mittal/iot-lab/blob/main/exp_2b.png?raw=true)
 
 Simulation available at: https://www.tinkercad.com/things/8SX81wViSlj and https://www.tinkercad.com/things/1mHW409toxf
