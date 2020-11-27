@@ -12,6 +12,8 @@ We attach a pin for external interrupts and an outpin to the resistor.
 The loop functions reads the distance using the readUltrasonicDistance function and convert to centimetres. I
 If the distance is less than 50 cm, trigger the interrupt by calling ISR.
 
+![Circuit Diagram](https://github.com/arushi-mittal/iot-lab/blob/main/exp_1.png?raw=true)
+
 Simulation Available at: https://www.tinkercad.com/things/8ROSjSCK7tE
 
 Experiment 2
