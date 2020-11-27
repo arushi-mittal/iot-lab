@@ -34,3 +34,15 @@ Ouput PWM signal is given to the base of the transistor and the new output comes
 ![Circuit Diagram Part b](https://github.com/arushi-mittal/iot-lab/blob/main/exp_2b.png?raw=true)
 
 Simulation available at: https://www.tinkercad.com/things/8SX81wViSlj and https://www.tinkercad.com/things/1mHW409toxf
+
+Experiment 3
+
+An experiment to control a servo motor using Thingspeak.com channel data.
+
+An account was set up on Thingspeak to create a new channel. API keys were used to enter data into the channel. 
+The password and SSID were stored to start communication, and a Wi-Fi client was instantiated. 
+
+In the loop function, we kept connected to wifi and checked status, and continued to read from private channel. 
+If the status code of the information received was 200, the servo motor shaft was rotated by the value given. 
+
+Status code was read using ThingSpeak.getLastReadStatus().
