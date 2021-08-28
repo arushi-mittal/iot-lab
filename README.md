@@ -18,7 +18,7 @@ If the distance is less than 50 cm, trigger the interrupt by calling ISR.
 
 ![Circuit Diagram](https://github.com/arushi-mittal/iot-lab/blob/main/exp_1.png?raw=true)
 
-Simulation Available at: https://www.tinkercad.com/things/8ROSjSCK7tE
+[Click for simulation](https://www.tinkercad.com/things/8ROSjSCK7tE)
 
 ## Experiment 2
 
@@ -37,7 +37,7 @@ Ouput `PWM` signal is given to the base of the transistor and the new output com
 ![Circuit Diagram Part a](https://github.com/arushi-mittal/iot-lab/blob/main/exp_2a.png?raw=true)
 ![Circuit Diagram Part b](https://github.com/arushi-mittal/iot-lab/blob/main/exp_2b.png?raw=true)
 
-Simulation available at: https://www.tinkercad.com/things/8SX81wViSlj and https://www.tinkercad.com/things/1mHW409toxf
+[Click for simulation](https://www.tinkercad.com/things/8SX81wViSlj and https://www.tinkercad.com/things/1mHW409toxf)
 
 ## Experiment 3
 
