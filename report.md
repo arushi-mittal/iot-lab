@@ -25,27 +25,34 @@ This set up can be used for monitoring the temperature and humidity of a dynamic
 
 ### Temperature Graph from ThingSpeak
 
-<figure class = "container">
+![Temperature Graph](TempGraph.png)
+
+<!-- <figure class = "container">
 <iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/1502645/charts/1?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&title=Temperature&type=line"></iframe>
 </figure>
-
+ -->
 ### Humidity Graph from ThingSpeak
 
-<figure class = "container">
+![Humidity Graph](HumGraph.png)
+<!-- <figure class = "container">
 <iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/1502645/charts/2?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&title=Humidity&type=line"></iframe>
-</figure>
+</figure> -->
 
 ### Temperature Gauge from ThingSpeak
 
+![Temperature Gauge](TempMeter.png)
+<!-- 
 <figure class = "container">
 <iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/1502645/widgets/356833"></iframe>
-</figure>
+</figure> -->
 
 ### Humidity Gauge from ThingSpeak
 
+![Humidity Gauge](HumMeter.png)
+<!-- 
 <figure class = "container">
 <iframe width="450" height="260" style="border: 1px solid #cccccc;" src="https://thingspeak.com/channels/1502645/widgets/356834"></iframe>
-</figure>
+</figure> -->
 
 ### Circuit
 
