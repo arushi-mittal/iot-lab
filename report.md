@@ -57,4 +57,4 @@ The project makes use of a DHT22 sensor to detect changes in the temperature and
 
 After connecting to Wi-Fi using Wifi.h, we set up other libraries like ThingSpeak and DHT, as well as setting baud rate and initiating communication with the Serial monitor. After this the most important step is to set up the digitalWrite pins and sensor input pins. After the set up is complete, we set a loop that runs every 3 seconds to take sensor readings, upload to ThingSpeak, and reflect the same in the LEDs connected to the ESP32 board. This continues until the code is terminated.
 
-![Program Flow](./flow.png)
+![Program Flow](./Flow.png)
